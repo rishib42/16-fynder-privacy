@@ -14,6 +14,10 @@ Fynder does not collect, upload, or store your PDF files, document contents, sea
 
 Fynder does not sell, rent, or share your documents or search activity with third parties.
 
+## Subscriptions
+
+Fynder Pro subscriptions and free trials are purchased and managed through Apple's App Store. Apple processes your payment; we do not receive your payment details or Apple ID. Fynder checks your subscription status on your Mac using Apple's StoreKit.
+
 ## Data stored on your Mac
 
 Fynder may keep local app preferences and temporary processing data required to provide its features. This data stays on your Mac and can be removed by deleting the app and its associated data using macOS tools.
