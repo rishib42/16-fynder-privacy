@@ -1,6 +1,6 @@
 # Fynder Privacy Policy
 
-**Effective date:** September 20, 2026
+**Effective date:** October 12, 2026
 
 Fynder ("Fynder", "we", "us", or "our") is a macOS PDF reader and search app developed by Gradients AI. This policy explains how Fynder handles information.
 
@@ -36,4 +36,4 @@ We may update this policy when Fynder's practices change. We will post the updat
 
 ## Contact
 
-For privacy questions, contact us through [gradientsai.com](https://gradientsai.com).
+For privacy questions, contact us through rishi.18b@gmail.com
